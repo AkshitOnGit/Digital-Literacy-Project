@@ -54,7 +54,7 @@ Prepared a case study on phishing and created a prevention checklist to promote 
 - task-1-presentation  
 - task-2-portfolio  
 - task-3-platforms  
-- task-4-email  
+- task-4-email-etiquette
 - task-5-cybercrime  
 
 ---
