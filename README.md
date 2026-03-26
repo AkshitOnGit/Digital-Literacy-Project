@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - **Name:** G Akshit  
 - **Registration Number:** 25BCY10111  
-- **Branch:** Cybersecurity and Digital Forensics(BCY)  
+- **Branch:** Cybersecurity and Digital Forensics (BCY)  
 - **Year:** 1st Year  
 
 ---
@@ -30,22 +30,14 @@ The project covers various aspects such as creating digital content, building a 
 ### 🔹 Task 1: Digital Literacy Infographic
 Created an infographic using Canva to explain digital literacy, safe internet practices, email etiquette, and professional online presence.
 
----
-
 ### 🔹 Task 2: Digital Portfolio
 Developed profiles on GitHub, LinkedIn, and CodeChef to establish a professional online presence.
-
----
 
 ### 🔹 Task 3: Platforms Exploration
 Solved a beginner-level coding problem on CodeChef and created a Google Form quiz for digital literacy awareness.
 
----
-
 ### 🔹 Task 4: Email Etiquette
 Drafted professional emails and created a social media do’s and don’ts checklist.
-
----
 
 ### 🔹 Task 5: Cybercrime Awareness
 Prepared a case study on phishing and created a prevention checklist to promote online safety.
@@ -53,17 +45,17 @@ Prepared a case study on phishing and created a prevention checklist to promote 
 ---
 
 ## 🔗 Google Form Link
-https://docs.google.com/forms/d/e/1FAIpQLSdnlYD5nez1yP8um5Qp1C8UzF0JImXG_nsS0IOZJaV7gfDYmQ/viewform?usp=dialog
+[Click here to view the form](https://docs.google.com/forms/d/e/1FAIpQLSdnlYD5nez1yP8um5Qp1C8UzF0JImXG_nsS0IOZJaV7gfDYmQ/viewform?usp=dialog)
 
 ---
 
 ## 📁 Repository Structure
-- report
+- report  
 - task-1-presentation  
 - task-2-portfolio  
 - task-3-platforms  
-- task-4-email  
-- task-5-cybercrime    
+- task-4-email-etiquette  
+- task-5-cybercrime  
 
 ---
 
